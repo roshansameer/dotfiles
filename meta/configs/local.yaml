@@ -8,4 +8,4 @@
     - "~/AppData/Roaming/Local/addons"
 
 - shell:
-    - [bash ./bin/install-local.sh, Installing Local addons]
+    - [bash ./bin/install-local-addons.sh, Installing Local addons]
